@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19e09a19-9c79-4ffc-a2a1-6d362f1b0d1b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="23G7jG3JwW9A3ycRmEi8h1kBCPU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MyApplication" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19e09a19-9c79-4ffc-a2a1-6d362f1b0d1b" name="Default Changelist" comment="" />
+      <created>1641348956775</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641348956775</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="660" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641349666028">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="660" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1641349666028" />
+    <state x="1061" y="330" key="AndroidProcessChooserDialog" timestamp="1641348789482">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1061" y="330" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1641348789482" />
+    <state x="986" y="320" key="FileChooserDialogImpl" timestamp="1641351833942">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="986" y="320" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1641351833942" />
+    <state x="606" y="165" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1641348842420">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="606" y="165" width="1200" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1641348842420" />
+    <state x="862" y="265" key="run.anything.popup" timestamp="1641348816163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="862" y="265" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1641348816163" />
+  </component>
+</project>
